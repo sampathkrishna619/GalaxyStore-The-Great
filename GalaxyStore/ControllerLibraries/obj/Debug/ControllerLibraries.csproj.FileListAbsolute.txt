@@ -1,0 +1,6 @@
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\bin\Debug\ControllerLibraries.dll
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\bin\Debug\ControllerLibraries.pdb
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\obj\Debug\ControllerLibraries.csprojAssemblyReference.cache
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\obj\Debug\ControllerLibraries.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\obj\Debug\ControllerLibraries.dll
+C:\Users\CGI\source\repos\GalaxyStore\ControllerLibraries\obj\Debug\ControllerLibraries.pdb

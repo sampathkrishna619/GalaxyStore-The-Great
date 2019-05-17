@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxyStore", "GalaxyStore\GalaxyStore.csproj", "{3F22F52F-5BE9-4C4D-B0EB-2D30EA1C5B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelClasses", "ModelClasses\ModelClasses.csproj", "{75705E89-1DE0-4598-A6D3-25436DFE434F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAOLibraries", "DAOLibraries\DAOLibraries.csproj", "{686EBAA0-AE63-4E4C-8311-275AACE4557B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerLibraries", "ControllerLibraries\ControllerLibraries.csproj", "{AAB4C0DB-1B62-4786-A33B-70362B19192C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F22F52F-5BE9-4C4D-B0EB-2D30EA1C5B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F22F52F-5BE9-4C4D-B0EB-2D30EA1C5B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F22F52F-5BE9-4C4D-B0EB-2D30EA1C5B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F22F52F-5BE9-4C4D-B0EB-2D30EA1C5B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75705E89-1DE0-4598-A6D3-25436DFE434F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75705E89-1DE0-4598-A6D3-25436DFE434F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75705E89-1DE0-4598-A6D3-25436DFE434F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75705E89-1DE0-4598-A6D3-25436DFE434F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686EBAA0-AE63-4E4C-8311-275AACE4557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686EBAA0-AE63-4E4C-8311-275AACE4557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686EBAA0-AE63-4E4C-8311-275AACE4557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686EBAA0-AE63-4E4C-8311-275AACE4557B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB4C0DB-1B62-4786-A33B-70362B19192C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB4C0DB-1B62-4786-A33B-70362B19192C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB4C0DB-1B62-4786-A33B-70362B19192C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB4C0DB-1B62-4786-A33B-70362B19192C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1213AC1A-15EE-49BC-9392-CDE5550D12EF}
+	EndGlobalSection
+EndGlobal

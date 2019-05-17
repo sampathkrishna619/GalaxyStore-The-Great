@@ -1,0 +1,5 @@
+C:\Users\CGI\source\repos\GalaxyStore\DAOLibraries\bin\Debug\DAOLibraries.dll
+C:\Users\CGI\source\repos\GalaxyStore\DAOLibraries\bin\Debug\DAOLibraries.pdb
+C:\Users\CGI\source\repos\GalaxyStore\DAOLibraries\obj\Debug\DAOLibraries.csproj.CoreCompileInputs.cache
+C:\Users\CGI\source\repos\GalaxyStore\DAOLibraries\obj\Debug\DAOLibraries.dll
+C:\Users\CGI\source\repos\GalaxyStore\DAOLibraries\obj\Debug\DAOLibraries.pdb
